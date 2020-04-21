@@ -163,3 +163,12 @@ Sample Input :
 Sample Output :
 
 1 2 3 4 5 6
+
+### Problems
+
+8. Write recursion for this relation:
+
+na_{n} = (n-3) * a_{n-1} + n, for n > 2
+
+Evaluate the nth term from this recursion
+
